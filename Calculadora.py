@@ -8,11 +8,6 @@ print("4. División")
 
 opcion = input("Ingresa el número de la operación (1/2/3/4): ")
 
-
-
-
-
-
 if opcion == '2':
     num1 = float (input("ingrese el primer numero"))
     num2 = float (input ("ingrese el segundo numero"))
